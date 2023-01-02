@@ -1200,15 +1200,13 @@ do
             Converted["_UI_Library"].Name = "UI_Library"
             Converted["_UI_Library"].Parent = Converted["_Atlas"]
 
-            Converted["_Name"].Value = "Atlas UI Library"
             Converted["_Name"].Name = "Name"
             Converted["_Name"].Parent = Converted["_UI_Library"]
 
-            Converted["_Creator"].Value = "RoadToGlory#9879"
             Converted["_Creator"].Name = "Creator"
             Converted["_Creator"].Parent = Converted["_UI_Library"]
 
-            Converted["_Discord"].Value = "https://discord.gg/xu5dDS3Pb9"
+            Converted["_Discord"].Value = "https://discord.gg/Pfn3ypdDKT"
             Converted["_Discord"].Name = "Discord"
             Converted["_Discord"].Parent = Converted["_UI_Library"]
 
